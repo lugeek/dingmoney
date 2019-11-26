@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">钉红包</string>
+    <string name="assist_description">打开开关，在钉钉群里面可以自动点击出现的红包!</string>
+</resources>
